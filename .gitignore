@@ -8,6 +8,7 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+.fat32format.exe
 build/
 develop-eggs/
 dist/
